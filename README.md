@@ -1,5 +1,5 @@
 # rn-yemek-tarifi
-A food-recipe mobile application using React Native for my senior design project.
+A food-recipe mobile application using React Native and Expo for my senior design project.
 
 Categories screen - (Also the Main Screen of the app)
 
